@@ -21,5 +21,5 @@ prompt.get('input', function (err, result) {
         }
     }
     [n[min_index],n[max_index]]=[max,min]
-    console.log(n.join(" "));
+    console.log(n.join("\n"));
 });
